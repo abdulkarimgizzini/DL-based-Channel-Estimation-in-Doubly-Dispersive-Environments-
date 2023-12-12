@@ -9,7 +9,7 @@ This repository includes the source code of the DL-based symbol-by-symbol (SBS) 
   - CNN-based channel estimators: https://github.com/abdulkarimgizzini/CNN-Aided-Weighted-Interpolation-for-Channel-Estimation-in-Vehicular-Communications
 
 
-For more information and questions, please contact me on abdulkarim.gizzini@ensea.fr 
+For more information and questions, please contact me on abdulkarimgizzini@gmail.com 
 
 
 
